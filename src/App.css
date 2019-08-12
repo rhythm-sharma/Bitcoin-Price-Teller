@@ -33,6 +33,7 @@ h2 {
   margin-top: 50px; 
   margin-left: 20px;
   margin-right: auto;
+  max-height: 200px;
 }
 
 .select-country, .select-graph-unit {
@@ -60,6 +61,7 @@ h2 {
   margin-right: 20px;
   height: 650px;
   width: 650px;
+  max-height: 500px;
 }
 
 .label {
